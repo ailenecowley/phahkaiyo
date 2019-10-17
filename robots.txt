@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://foonugaiju.hammerbenjamin.com/sitemap.xml
